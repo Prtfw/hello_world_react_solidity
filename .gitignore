@@ -1,0 +1,4 @@
+node_modules
+mnem.js
+.DS_Store
+*.lock
