@@ -6,7 +6,7 @@ repo for talk: deploy your first blockchain app with react front end
 ...optional...
 
 - update mnemonic in mnem.js with your own (required in deploy.js)
-- update infura endpoint
+- update infura endpoint to your own by creating project with your infura account
 - get some test ether from faucet for your own Metamask accounts via https://faucet.rinkeby.io/
 - run deploy.js
 - copy new contract address and update contract_instance.js in ipromise_app/src
