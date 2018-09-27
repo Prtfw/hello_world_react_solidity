@@ -5,7 +5,8 @@ repo for talk: deploy your first blockchain app with react front end
 
 ...optional...
 
-- update mnemonic in mnem.js with your own (required in deploy.js)
+- signup for metamask account (chrome plugin)
+- update mnemonic in mnem.js with your own from meta-mask (required in deploy.js)
 - update infura endpoint to your own by creating project with your infura account
 - get some test ether from faucet for your own Metamask accounts via https://faucet.rinkeby.io/ (sign up for metamask account first and choose a testnet (make sure the endpoint is for the the same testnet for infura) (I used Rinkeby)
 - run deploy.js
