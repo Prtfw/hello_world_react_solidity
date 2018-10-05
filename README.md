@@ -19,3 +19,8 @@ repo for talk: deploy your first blockchain app with react front end
 - npm / yarn start and navigate to localhost:3000
 
 poke around + have fun (you need to have installed and signed-in to your metamask chrome plugin for the frontend to work)
+
+
+- to compile contract (run "node compile.js" in the main repo)
+
+- to deploy contract (use testnet first) (run "node deploy.js" in the main repo)
