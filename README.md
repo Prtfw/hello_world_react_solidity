@@ -1,7 +1,7 @@
 # hello_world_react_solidity
 repo for talk: deploy your first blockchain app with react front end
 
-- install packages (yarn add / npm install)
+- install packages (yarn install / npm install) in main repo
 
 ...optional...
 
@@ -14,7 +14,7 @@ repo for talk: deploy your first blockchain app with react front end
 
 ...end of optional...
 
-- install packages in ipromise_app
+- install packages (yarn install / npm install) in ./ipromise_app
 - npm / yarn start and navigate to localhost:3000
 
-poke around + have fun
+poke around + have fun (you need to have installed and signed-in to your metamask chrome plugin for the frontend to work)
